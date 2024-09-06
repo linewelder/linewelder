@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @linewelder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello!
 
-\<!---
-linewelder/linewelder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a final-year computer science student. I'm interested in programming and how computers work.
+
+### I'm looking for a job ([my CV](https://linewelder.github.io/cv-software-developer.pdf)).
+
+### 🏊 I'm currently working on
+[My team diploma project](https://github.com/Reservant-inc/reservant-backend).
+
+### 📫 How to reach me
+- [redalerm@gmail.com](mailto:redalerm@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/oleksii-yermolaiev-980ab024a/)
