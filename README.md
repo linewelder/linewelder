@@ -5,7 +5,7 @@ I'm a final-year computer science student. I'm interested in programming and how
 ### I'm looking for a job ([my CV](https://linewelder.github.io/cv-software-developer.pdf)).
 
 ### 🏊 I'm currently working on
-[My team diploma project](https://github.com/Reservant-inc/reservant-backend).
+[My team diploma project](https://github.com/Reservant-inc).
 
 ### 📫 How to reach me
 - [redalerm@gmail.com](mailto:redalerm@gmail.com)
