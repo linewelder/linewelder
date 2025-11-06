@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a final-year computer science student. I'm interested in programming and how computers work.
+I'm a computer science graduate. I'm interested in programming and how computers work.
 
 ### I'm looking for a job ([my CV](https://linewelder.github.io/cv-software-developer.pdf)).
 
